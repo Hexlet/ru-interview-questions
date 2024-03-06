@@ -15,7 +15,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 ## Правила
 
-* Для добавляйте вопросы с пояснениями
+* Для добавления вопросов с пояснениями
 
 ```html
 <details>
@@ -28,17 +28,30 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 <details>
 <summary>Перечислите порядок написания операторов в запросе SQL</summary>
-TODO
+SELECT 
+ [DISTINCT | DISTINCTROW | ALL]
+ select_expression,...
+ FROM table_references
+ [WHERE where_definition]
+ [GROUP BY {unsigned_integer | column | formula}]
+ [HAVING where_definition]
+ [ORDER BY {unsigned_integer | column | formula} [ASC | DESC], ...]
 </details>
 
 <details>
 <summary>Перечислите порядок выполнения операторов в запросе SQL</summary>
-TODO
+1. FROM
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. SELECT
+6. ORDER BY
 </details>
 
 <details>
 <summary>Назовите, чем отличаются операторы HAVING и WHERE</summary>
-TODO
+HAVING используется как WHERE, но в другой части SQL-выражения и, соответственно, на другой 
+стадии формирования запроса. HAVING применяется не для всего набора столбцов таблицы, а для набора созданного оператором GROUP BY и применяется всегда строго после него.
 </details>
 
 <details>
@@ -68,7 +81,9 @@ TODO
 
 <details>
 <summary>Какой оператор помогает вывести ограниченный список значений в результате запроса?</summary>
-TODO
+SELECT id
+FROM answer
+LIMIT 10;
 </details>
 
 <details>
@@ -83,7 +98,13 @@ TODO
 
 <details>
 <summary>Каким способом можно избавиться от дублей в таблице? Какие еще способы вы знаете?</summary>
-TODO
+1. SELECT DISTINCT title
+FROM report;
+2. 
+  SELECT id, title, COUNT(*)
+  FROM report
+  GROUP BY id, title
+  HAVING COUNT(*) = 1;
 </details>
 
 <details>
