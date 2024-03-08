@@ -28,24 +28,30 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 <details>
 <summary>Перечислите порядок написания операторов в запросе SQL</summary>
+
+```
 SELECT 
- <br />[DISTINCT | DISTINCTROW | ALL]
- <br />select_expression,...
- <br />FROM table_references
- <br />[WHERE where_definition]
- <br />[GROUP BY {unsigned_integer | column | formula}]
- <br />[HAVING where_definition]
- <br />[ORDER BY {unsigned_integer | column | formula} [ASC | DESC], ...]
+ [DISTINCT | DISTINCTROW | ALL]
+ select_expression,...
+ FROM table_references
+ [WHERE where_definition]
+ [GROUP BY {unsigned_integer | column | formula}]
+ [HAVING where_definition]
+ [ORDER BY {unsigned_integer | column | formula} [ASC | DESC], ...]
+``` 
 </details>
 
 <details>
 <summary>Перечислите порядок выполнения операторов в запросе SQL</summary>
+
+```   
 1. FROM
-<br />2. WHERE
-<br />3. GROUP BY
-<br />4. HAVING
-<br />5. SELECT
-<br />6. ORDER BY
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. SELECT
+6. ORDER BY
+```
 </details>
 
 <details>
@@ -81,9 +87,12 @@ TODO
 
 <details>
 <summary>Какой оператор помогает вывести ограниченный список значений в результате запроса?</summary>
+
+```
 SELECT id
-<br />FROM answer
-<br />LIMIT 10;
+FROM answer
+LIMIT 10;
+```
 </details>
 
 <details>
@@ -98,13 +107,16 @@ TODO
 
 <details>
 <summary>Каким способом можно избавиться от дублей в таблице? Какие еще способы вы знаете?</summary>
-1. SELECT DISTINCT title
-<br />FROM report;
-<br />2. 
-<br />  SELECT id, title, COUNT(*)
-<br />  FROM report
-<br />  GROUP BY id, title
-<br />  HAVING COUNT(*) = 1;
+
+```
+1.  SELECT DISTINCT title
+    FROM report;
+
+2.  SELECT id, title, COUNT(*)
+    FROM report
+    GROUP BY id, title
+    HAVING COUNT(*) = 1;
+```
 </details>
 
 <details>
