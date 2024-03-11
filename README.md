@@ -29,7 +29,7 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 <details>
 <summary>Перечислите порядок написания операторов в запросе SQL</summary>
 
-```
+```sql
 SELECT 
  [DISTINCT | DISTINCTROW | ALL]
  select_expression,...
@@ -44,7 +44,7 @@ SELECT
 <details>
 <summary>Перечислите порядок выполнения операторов в запросе SQL</summary>
 
-```   
+```sql   
 1. FROM
 2. WHERE
 3. GROUP BY
@@ -88,7 +88,7 @@ TODO
 <details>
 <summary>Какой оператор помогает вывести ограниченный список значений в результате запроса?</summary>
 
-```
+```sql
 SELECT id
 FROM answer
 LIMIT 10;
@@ -108,11 +108,12 @@ TODO
 <details>
 <summary>Каким способом можно избавиться от дублей в таблице? Какие еще способы вы знаете?</summary>
 
-```
-1.  SELECT DISTINCT title
+```sql
+    SELECT DISTINCT title
     FROM report;
-
-2.  SELECT id, title, COUNT(*)
+```
+```sql
+    SELECT id, title, COUNT(*)
     FROM report
     GROUP BY id, title
     HAVING COUNT(*) = 1;
