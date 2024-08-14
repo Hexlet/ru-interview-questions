@@ -1,4 +1,4 @@
-# Вопросы с собеседований для дата аналитиков, инженеров и Data Science
+# Вопросы с собеседований для разработчиков, аналитиков, тестировщиков и других
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-test-assignments)
 
