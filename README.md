@@ -1,10 +1,3 @@
-[![Логотип Хекслета](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-questions-interview)
-Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслетt. [Подробнее о Хекслете](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-questions-interview).
-
-Посмотреть наиболее активных участников на странице [hexlet-friends](https://friends.hexlet.io/).
-
-----
-
 Вопросы с собеседований для разработчиков, аналитиков, тестировщиков и других
 
 ## Как помочь?
@@ -13,7 +6,7 @@
 
 ## Правила
 
-* Для добавления вопросов с пояснениями
+Для добавления вопросов с пояснениями
 
 ```html
 <details>
@@ -34,3 +27,19 @@
 * [QA, ручное и автотестирование](./questions/qa.md)
 * [Ruby On Rails](./questions/rails.md)
 * [PHP](./questions/php.md)
+
+
+<p align="center">
+  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
+    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo_full_ru.svg" alt="Hexlet Ltd. logo" height="100">
+  </a>
+</p>
+
+<p align="center">
+  Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет
+  <br>
+  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-questions-interview"><strong>Подробнее о Хекслете</strong></a>
+  <br>
+  <br>
+  Посмотреть наиболее активных участников на странице <a href="https://friends.hexlet.io/">hexlet-friends</a>
+</p>
