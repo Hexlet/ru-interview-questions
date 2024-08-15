@@ -18,7 +18,7 @@
 
 ## Направления
 
-* [Аналитика данных](./questions/data-analytics.md)
+* [Аналитик данных](./questions/data-analytics.md)
 * [Фронтенд-разработчик](./questions/frontend.md)
 * [Java-разрабтчик](./questions/java.md)
 * [Бэкенд-разработчик на Nodejs](./questions/nodejs.md)
