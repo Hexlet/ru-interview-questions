@@ -6,7 +6,8 @@
 
 ## Правила
 
-Для добавления вопросов с пояснениями
+* Для новых направлений создайте файл в *questions/* и добавьте его в список.
+* Вопрос с пояснением или ответом необходимо добавить с тегом `<details>`:
 
 ```html
 <details>
@@ -18,16 +19,16 @@
 ## Направления
 
 * [Аналитика данных](./questions/data-analytics.md)
-* [Общие вопросы для бэкендеров](./questions/backend.md)
-* [Базы данных](./questions/databases.md)
-* [Фронтенд](./questions/frontend.md)
-* [Java](./questions/java.md)
-* [Nodejs и Javascript](./questions/nodejs.md)
-* [Python](./questions/python.md)
-* [QA, ручное и автотестирование](./questions/qa.md)
+* [Фронтенд-разработчик](./questions/frontend.md)
+* [Java-разрабтчик](./questions/java.md)
+* [Бэкенд-разработчик на Nodejs](./questions/nodejs.md)
+* [Разработчик на Django](./questions/django.md)
+* [Ручной тестировщик](./questions/manual_qa.md)
 * [Ruby On Rails](./questions/rails.md)
-* [PHP](./questions/php.md)
+* [PHP-разработчик на Laravel](./questions/laravel.md)
+* [DevOps-инженер](./questions/)
 
+---
 
 <p align="center">
   <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">

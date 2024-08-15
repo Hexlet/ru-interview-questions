@@ -1,4 +1,4 @@
-## Вопросы для бекенд разработчиков на NodeJS
+## Вопросы для бэкендеров на NodeJS
 
 <details>
 <summary>TODO</summary>
