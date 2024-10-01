@@ -12,7 +12,7 @@
 
 * [Аналитик данных](./questions/data-analytics.md)
 * [Фронтенд-разработчик](./questions/frontend.md)
-* [Java-разрабтчик](./questions/java.md)
+* [Java-разработчик](./questions/java.md)
 * [Бэкенд-разработчик на Nodejs](./questions/nodejs.md)
 * [Разработчик на Django](./questions/django.md)
 * [Ручной тестировщик](./questions/manual-qa.md)
