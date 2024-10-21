@@ -14,11 +14,11 @@
 * [Фронтенд-разработчик](./questions/frontend.md)
 * [Java-разработчик](./questions/java.md)
 * [Бэкенд-разработчик на Nodejs](./questions/nodejs.md)
-* [Разработчик на Django](./questions/django.md)
+* [Разработчик на Django](./questions/python.md)
 * [Ручной тестировщик](./questions/manual-qa.md)
 * [Автотестировщик](./questions/auto-qa.md)
 * [Ruby On Rails](./questions/rails.md)
-* [PHP-разработчик на Laravel](./questions/laravel.md)
+* [PHP-разработчик на Laravel](./questions/php.md)
 * [DevOps-инженер](./questions/)
 
 ---
