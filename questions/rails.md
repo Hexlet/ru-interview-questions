@@ -111,37 +111,37 @@
 
   <details>
   <summary>index:</summary>
-  <pre><code class="lang-json">[
-      {
-        id: <span class="hljs-number">1</span>,
-        number: <span class="hljs-string">'H1111'</span>,
-        position: [
-          {
-            id: <span class="hljs-number">1</span>
-            name: <span class="hljs-string">'Хлеб'</span>
-            cost: <span class="hljs-string">'59.90'</span>
-          },
-          # ......
-        ]
-      },
-      #......
-    ]
+  <pre><code class="lang-json">  [
+    {
+      id: 1,
+      number: 'H1111',
+      position: [
+        {
+          id: 1
+          name: 'Хлеб'
+          cost: '59.90'
+        },
+        # ......
+      ]
+    },
+    #......
+  ]
   </code></pre>
 
   </details>
   <details>
   <summary>show:</summary>
   <pre><code class="lang-json">{
-        <span class="hljs-attribute">id</span>: <span class="hljs-number">1</span>,
-        <span class="hljs-attribute">number</span>: <span class="hljs-string">'H1111'</span>,
-        <span class="hljs-attribute">position</span>: [
-          {
-            <span class="hljs-attribute">id</span>: <span class="hljs-number">1</span>
-            <span class="hljs-attribute">name</span>: <span class="hljs-string">'Хлеб'</span>
-            <span class="hljs-attribute">cost</span>: <span class="hljs-string">'59.90'</span>
-          },
-          # ......
-        ]
-      }
+      id: 1,
+      number: 'H1111',
+      position: [
+        {
+          id: 1
+          name: 'Хлеб'
+          cost: '59.90'
+        },
+        # ......
+      ]
+    }
   </code></pre>
   </details>
