@@ -132,16 +132,16 @@
   <details>
   <summary>show:</summary>
   <pre><code class="lang-json">{
-  id: 1,
-  number: 'H1111',
-  position: [
-    {
-      id: 1
-      name: 'Хлеб'
-      cost: '59.90'
-    },
-    # ......
-  ]
-}
+    id: 1,
+    number: 'H1111',
+    position: [
+      {
+        id: 1
+        name: 'Хлеб'
+        cost: '59.90'
+      },
+      # ......
+    ]
+  }
   </code></pre>
   </details>
