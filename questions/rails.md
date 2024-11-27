@@ -48,7 +48,9 @@
 * Есть таблица `posts` и таблица `comments`, связь один ко многим, в таблице `comments` вторичный ключ `post_id` - напиши запрос который вытащит все посты у которых > 3 комментариев и дата создания поста после 20 ноября
 
 * Есть новые данные вот такой структуры
-  ```json
+  <details>
+  <summary>json:</summary>
+  <pre><code class="lang-json">
   [
     {
       id: 1,
@@ -64,7 +66,8 @@
     },
     #......
   ]
-  ```
+  </code></pre>
+  </details>
 
   И им соответствуют модели
 
@@ -89,9 +92,7 @@
   class Position < ApplicationRecord
     belongs_to :order
   end
-  ```
 
-  ```ruby
   class OrdersController < ApplicationController
     def index
       # solution
