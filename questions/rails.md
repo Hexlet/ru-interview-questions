@@ -51,21 +51,21 @@
   <details>
   <summary>json:</summary>
   <pre><code class="lang-json">
-  [
-    {
-      id: 1,
-      number: 'H1111',
-      position: [
-        {
-          id: 1
-          name: 'Хлеб'
-          cost: '59.90'
-        },
-        # ......
-      ]
-    },
-    #......
-  ]
+[
+  {
+    id: 1,
+    number: 'H1111',
+    position: [
+      {
+        id: 1
+        name: 'Хлеб'
+        cost: '59.90'
+      },
+      # ......
+    ]
+  },
+  #......
+]
   </code></pre>
   </details>
 
@@ -112,37 +112,37 @@
 
   <details>
   <summary>index:</summary>
-  <pre><code class="lang-json">  [
-    {
-      id: 1,
-      number: 'H1111',
-      position: [
-        {
-          id: 1
-          name: 'Хлеб'
-          cost: '59.90'
-        },
-        # ......
-      ]
-    },
-    #......
-  ]
+  <pre><code class="lang-json">[
+  {
+    id: 1,
+    number: 'H1111',
+    position: [
+      {
+        id: 1
+        name: 'Хлеб'
+        cost: '59.90'
+      },
+      # ......
+    ]
+  },
+  #......
+]
   </code></pre>
 
   </details>
   <details>
   <summary>show:</summary>
   <pre><code class="lang-json">{
-      id: 1,
-      number: 'H1111',
-      position: [
-        {
-          id: 1
-          name: 'Хлеб'
-          cost: '59.90'
-        },
-        # ......
-      ]
-    }
+  id: 1,
+  number: 'H1111',
+  position: [
+    {
+      id: 1
+      name: 'Хлеб'
+      cost: '59.90'
+    },
+    # ......
+  ]
+}
   </code></pre>
   </details>
