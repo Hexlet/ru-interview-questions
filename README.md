@@ -24,16 +24,7 @@
 ---
 
 <p align="center">
-  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
-    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo_full_ru.svg" alt="Hexlet Ltd. logo" height="100">
+  <a href="https://ttttt.me/HexletLearningBot?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
+    <img src="https://raw.githubusercontent.com/Hexlet/assets/345b574037d8c9494b5577641054ccdb10454406/images/footers/svg/hexlet_footer_ru.svg" alt="Hexlet footer message" height="100">
   </a>
-</p>
-
-<p align="center">
-  Этот репозиторий создан и поддерживается командой и сообществом образовательного проекта Хекслет
-  <br>
-  <a href="https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-questions-interview"><strong>Подробнее о Хекслете</strong></a>
-  <br>
-  <br>
-  Посмотреть наиболее активных участников на странице <a href="https://friends.hexlet.io/">hexlet-friends</a>
 </p>
