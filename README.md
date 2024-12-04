@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <a target="_blank" href="https://ttttt.me/HexletLearningBot?utm_source=github&utm_medium=link&utm_campaign=hexlet-assets">
+  <a target="_blank" href="https://ttttt.me/HexletLearningBot?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions">
     <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/footers/svg/hexlet_footer_ru.svg" alt="Hexlet footer message">
   </a>
 </p>
