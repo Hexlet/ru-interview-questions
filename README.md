@@ -19,6 +19,10 @@
 * [PHP-разработчик на Laravel](./questions/php.md)
 * [DevOps-инженер](./questions/)
 
+## Вопросы по темам
+
+* [Софт скиллы](./questions/softskills.md)
+
 ---
 
 <p align="center">
