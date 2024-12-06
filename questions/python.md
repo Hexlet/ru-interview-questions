@@ -1,6 +1,7 @@
 # Вопросы для разработчиков Python (django)
 
 [Вопросы по soft skills](/questions/softskills.md)
+[Вопросы по алгоритмам](/questions/algorithms.md)
 
 ## Junior
 

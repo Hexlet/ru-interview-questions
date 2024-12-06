@@ -22,6 +22,7 @@
 ## Вопросы по темам
 
 * [Софт скиллы](./questions/softskills.md)
+* [Алгоритмы и структуры данных](/questions/algorithms.md)
 
 ---
 
