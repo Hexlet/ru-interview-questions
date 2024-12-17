@@ -1,4 +1,4 @@
-# Вопросы для PHP-разработчиков (laravel)
+# Вопросы для PHP-разработчиков
 
 [Вопросы по soft skills](/questions/softskills.md)
 [Вопросы по алгоритмам](/questions/algorithms.md)

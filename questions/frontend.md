@@ -1,4 +1,4 @@
-# Вопросы для фронтендеров (JS, React, TS, Redux)
+# Вопросы для фронтендеров
 
 [Вопросы по soft skills](/questions/softskills.md)
 [Вопросы по алгоритмам](/questions/algorithms.md)
