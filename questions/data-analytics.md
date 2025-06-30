@@ -1,6 +1,7 @@
 # Вопросы на собеседованиях аналитиков
 
-[Вопросы по soft skills](/questions/softskills.md)
+* [Вопросы по soft skills](/questions/common/softskills.md)
+* [Вопросы по базам данных](/common/databases.md)
 
 ## Junior
 
