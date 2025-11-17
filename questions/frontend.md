@@ -2,9 +2,9 @@
 
 * [Вопросы по soft skills](/questions/common/softskills.md)
 * [Вопросы по алгоритмам](/questions/common/algorithms.md)
-* [Общие вопросы по сетям, браузеру](common/networks.md)
-* [Вопросы по сетям](/common/networks.md)
-* [вопросы по методологиям разработки](/common/metodologies.md)
+* [Общие вопросы по сетям, браузеру](/questions/common/networks.md)
+* [Вопросы по сетям](/questions/common/networks.md)
+* [Вопросы по методологиям разработки](/questions/common/metodologies.md)
 
 ## Junior
 
