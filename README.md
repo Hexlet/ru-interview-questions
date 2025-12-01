@@ -24,6 +24,8 @@
 * [Фронтенд-разработчик](./questions/softskills/frontend.md)
 * [QA инженер](./questions/softskills/qa.md)
 * [Бекенд-разработчик](./questions/softskills/backend.md)
+* [Аналитик данных](./questions/softskills/backend.md)
+* [Фуллстек разработчик](./questions/softskills/fullstack.md)
 
 ## Вопросы по темам
 
