@@ -21,7 +21,7 @@
 
 ## Вопросы по темам
 
-* [Софт скиллы](./questions/common/softskills.md)
+* [Софт скиллы по направлениям](./questions/softskills)
 * [Алгоритмы и структуры данных](/questions/common/algorithms.md)
 * [Компьютерные сети и интернет](questions/common/networks.md)
 * [Методологи разработки](questions/common/metodologies.md)
