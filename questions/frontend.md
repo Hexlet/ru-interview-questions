@@ -1,10 +1,10 @@
 # Вопросы для фронтендеров
 
-* [Вопросы по soft skills](/questions/common/softskills.md)
 * [Вопросы по алгоритмам](/questions/common/algorithms.md)
 * [Общие вопросы по сетям, браузеру](/questions/common/networks.md)
 * [Вопросы по сетям](/questions/common/networks.md)
 * [Вопросы по методологиям разработки](/questions/common/metodologies.md)
+* [Вопросы по soft skills для фронтендеров](/questions/softskills/frontend.md)
 
 ## Junior
 

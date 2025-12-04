@@ -6,7 +6,7 @@
 
 Для новых направлений создайте файл в *questions/* и добавьте его в список.
 
-## Вопросы по направлениям
+## Вопросы по направлениям (Hard Skills)
 
 * [Аналитик данных](./questions/data-analytics.md)
 * [Фронтенд-разработчик](./questions/frontend.md)
@@ -19,9 +19,17 @@
 * [Бэкенд-разработчик на PHP](./questions/php.md)
 * [DevOps-инженер](./questions/)
 
+## Вопросы Soft Skills по направлениям
+
+* [Фронтенд-разработчик](./questions/softskills/frontend.md)
+* [QA инженер](./questions/softskills/qa.md)
+* [Бекенд-разработчик](./questions/softskills/backend.md)
+* [Аналитик данных](./questions/softskills/backend.md)
+* [Фуллстек разработчик](./questions/softskills/fullstack.md)
+
 ## Вопросы по темам
 
-* [Софт скиллы](./questions/common/softskills.md)
+* [Софт скиллы по направлениям](./questions/softskills)
 * [Алгоритмы и структуры данных](/questions/common/algorithms.md)
 * [Компьютерные сети и интернет](questions/common/networks.md)
 * [Методологи разработки](questions/common/metodologies.md)

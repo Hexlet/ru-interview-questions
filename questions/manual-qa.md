@@ -2,10 +2,10 @@
 
 # Вопросы для ручных тестировщиков
 
-* [Вопросы по soft skills](/questions/common/softskills.md)
+* [Вопросы по soft skills](/questions/softskills/qa.md)
 * [Вопросы по базам данных](/questions/common/databases.md)
 * [Вопросы по сетям](/questions/common/networks.md)
-* [вопросы по методологиям разработки](/questions/common/metodologies.md)
+* [Вопросы по методологиям разработки](/questions/common/metodologies.md)
 
 ## Общие вопросы по тестированию и методологиям разработки
 

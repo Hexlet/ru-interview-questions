@@ -1,6 +1,6 @@
 # Вопросы для разработчиков на Ruby On Rails
 
-* [Вопросы по soft skills](/questions/common/softskills.md)
+* [Вопросы по soft skills](/questions/softskills/backend.md)
 * [Вопросы по алгоритмам](/questions/common/algorithms.md)
 * [Вопросы по базам данных](/questions/common/databases.md)
 * [Вопросы по сетям](/questions/common/networks.md)
