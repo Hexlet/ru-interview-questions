@@ -6,8 +6,6 @@
 - [Вопросы по сетям](/questions/common/networks.md)
 - [Вопросы по методологиям разработки](/questions/common/metodologies.md)
 
-## Вопросы для Java-разработчиков
-
 ## Общие вопросы
 
 ### Junior
