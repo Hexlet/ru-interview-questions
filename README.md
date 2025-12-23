@@ -15,7 +15,7 @@
 * [Бэкенд-Разработчик на Python](./questions/python.md)
 * [Ручной тестировщик](./questions/manual-qa.md)
 * [Автотестировщик](./questions/auto-qa.md)
-* [Rails-разработчик ](./questions/rails.md)
+* [Rails-разработчик](./questions/rails.md)
 * [Бэкенд-разработчик на PHP](./questions/php.md)
 * [DevOps-инженер](./questions/)
 
