@@ -1,17 +1,33 @@
-Сборник вопросов с собеседований для разработчиков, аналитиков, тестировщиков и других от Хекслет.Карьеры.
+<div align="center">
 
-## Хекслет.Карьера
-
-<a target="_blank" href="https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/assets/master/images/svg/hexlet_logo_white_rus.svg">
-    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/svg/hexlet_logo_primary_rus.svg" alt="Хекслет" width="72">
-  </picture>
+<a href="https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions">
+    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png" alt="Hexlet Ltd. logo" width="96">
 </a>
 
-Эти вопросы собраны в [Хекслет.Карьере](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions) — программе помощи с трудоустройством
-в IT: курс по поиску работы от резюме до оффера, ревью резюме, мок-интервью с наставниками
-и HR, работа над коммерческими проектами и партнёрские вакансии. 75% участников уже нашли работу.
+# Вопросы с собеседований
+
+**Более 1000 вопросов, которые реально задавали на собеседованиях** — по десяти направлениям,
+от фронтенда и Java до DevOps, тестирования и аналитики данных, плюс общие темы и soft skills.
+
+Открытый сборник для подготовки к интервью — и для тех, кто собеседует сам.
+
+[![PR welcome](https://img.shields.io/badge/pull_request-welcome-brightgreen?style=flat-square)](#как-прислать-свой-вопрос)
+[![Хекслет.Карьера](https://img.shields.io/badge/карьера-Хекслет-116dff?style=flat-square)](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions)
+[![Telegram](https://img.shields.io/badge/сообщество-Telegram-26A5E4?style=flat-square)](https://t.me/hexletcommunity)
+
+</div>
+
+Сборник создан и поддерживается командой и сообществом [Хекслет.Карьеры](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions) —
+программы помощи с трудоустройством в IT.
+
+## Ищете работу?
+
+> [!TIP]
+> Собеседование — только один этап отбора. На [Хекслет.Карьере](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions) помогают довести
+> дело до оффера: курс по поиску работы, разбор резюме, мок-интервью с наставниками и HR,
+> работа над коммерческими проектами, вакансии партнёров и закрытое сообщество.
+> А поговорить о собеседованиях, задачах и профессии можно в открытом
+> [Telegram-сообществе Хекслета](https://t.me/hexletcommunity).
 
 ## Как прислать свой вопрос?
 
