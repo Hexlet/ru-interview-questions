@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions">
-    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png" alt="Hexlet Ltd. logo" width="96">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/png/hexlet_wordmark_white_rus.png">
+        <img src="https://raw.githubusercontent.com/Hexlet/brand-assets/master/images/png/hexlet_wordmark_primary_rus.png" alt="Хекслет" width="240">
+    </picture>
 </a>
 
 # Вопросы с собеседований
@@ -12,8 +15,8 @@
 Открытый сборник для подготовки к интервью — и для тех, кто собеседует сам.
 
 [![PR welcome](https://img.shields.io/badge/pull_request-welcome-brightgreen?style=flat-square)](#как-прислать-свой-вопрос)
-[![Хекслет.Карьера](https://img.shields.io/badge/карьера-Хекслет-116dff?style=flat-square)](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions)
-[![Telegram](https://img.shields.io/badge/сообщество-Telegram-26A5E4?style=flat-square)](https://t.me/hexletcommunity)
+[![Хекслет.Карьера](https://img.shields.io/badge/карьера-Хекслет-136EF6?style=flat-square)](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions)
+[![Хекслет Сообщество в Telegram](https://img.shields.io/badge/сообщество-Telegram-136EF6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hexletcommunity)
 
 </div>
 
