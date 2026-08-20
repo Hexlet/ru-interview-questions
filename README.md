@@ -2,20 +2,16 @@
 
 ## Хекслет.Карьера
 
-Эти вопросы собраны в [Хекслет.Карьере](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions)
-— программе помощи с трудоустройством в IT. 75% участников уже нашли работу.
+<a target="_blank" href="https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hexlet/assets/master/images/svg/hexlet_logo_white_rus.svg">
+    <img src="https://raw.githubusercontent.com/Hexlet/assets/master/images/svg/hexlet_logo_primary_rus.svg" alt="Хекслет" width="72">
+  </picture>
+</a>
 
-Что входит:
-
-* курс по поиску работы: от резюме до оффера;
-* ревью резюме и сопроводительных писем;
-* мок-интервью с наставниками и HR;
-* работа над коммерческими проектами и GitHub-портфолио;
-* партнёрские вакансии от работодателей;
-* закрытое сообщество и вебинары от руководителя программы.
-
-Студентам Хекслета — бесплатно, остальным — 1500 ₽ в месяц.
-[Посмотреть программу](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions)
+Эти вопросы собраны в [Хекслет.Карьере](https://career.hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ru-interview-questions) — программе помощи с трудоустройством
+в IT: курс по поиску работы от резюме до оффера, ревью резюме, мок-интервью с наставниками
+и HR, работа над коммерческими проектами и партнёрские вакансии. 75% участников уже нашли работу.
 
 ## Как прислать свой вопрос?
 
