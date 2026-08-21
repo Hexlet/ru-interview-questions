@@ -2,8 +2,10 @@
 
 # Global configuration options
 [global]
-# List of rules to disable (uncomment and modify as needed)
-# disable = ["MD013", "MD033"]
+# Ответы к вопросам оформлены раскрывашками <details>/<summary> — это намеренный
+# inline HTML, поэтому MD033 выключен. MD013 (длина строки) оставлен включённым,
+# хотя срабатывает часто: строки вопросов и абзацы ответов не переносят по 80 колонок.
+disable = ["MD033"]
 
 # List of rules to enable exclusively (if provided, only these rules will run)
 # enable = ["MD001", "MD003", "MD004"]
